@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Folha
+comment1.params=
+comment1.target=Folha()
+comment2.params=aluno
+comment2.target=void\ aplicarEfeito(Aluno)
+numComments=3

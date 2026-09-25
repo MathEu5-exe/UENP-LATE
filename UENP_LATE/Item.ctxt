@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Item
+comment1.params=aluno
+comment1.target=void\ aplicarEfeito(Aluno)
+comment2.params=
+comment2.target=Item()
+comment3.params=nomeArquivo\ largura\ altura
+comment3.target=greenfoot.GreenfootImage\ carregarEScalar(java.lang.String,\ int,\ int)
+numComments=4
